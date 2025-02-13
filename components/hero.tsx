@@ -17,7 +17,7 @@ export function Hero() {
         like to be committed, responsible, respectful, serious & also have some fun while working on every project,
         every challenge. I'm always moved by love, thoughts, compassion, and music.
       </p>
-      <div className="flex space-x-4 mb-8">
+      <div className="flex space-x-4 mb-8 px-2">
         <Button asChild>
           <Link href={process.env.GITHUB ?? ''} target="_blank" rel="noopener noreferrer">
             <Github className="mr-2 h-4 w-4" /> GitHub
