@@ -1,0 +1,102 @@
+{
+  "Next.js": {
+    "description": "A React framework for production that enables server-side rendering and static site generation for building fast web applications.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/next-1.svg"
+  },
+  "React": {
+    "description": "A JavaScript library for building user interfaces, known for its component-based architecture and declarative approach.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/react-2.svg"
+  },
+  "TailwindCSS": {
+    "description": "A utility-first CSS framework for rapidly building custom user interfaces without leaving your HTML.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
+  },
+  "Qwik": {
+    "description": "A resumable JavaScript framework that focuses on delivering instant-on web applications with near-zero JavaScript overhead.",
+    "imageUrl": "https://qwik.builder.io/logos/qwik-logo.svg"
+  },
+  "Node.js": {
+    "description": "A JavaScript runtime built on Chrome's V8 engine, used for building scalable server-side applications.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"
+  },
+  "TypeScript": {
+    "description": "A strongly typed superset of JavaScript that adds optional static types, enhancing code reliability and scalability.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/typescript.svg"
+  },
+  "Fastify": {
+    "description": "A highly performant and low-overhead web framework for Node.js, designed to handle high traffic and scale efficiently.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/fastify.svg"
+  },
+  "NestJS": {
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/nestjs.svg"
+  },
+  "PostgreSQL": {
+    "description": "A powerful, open-source object-relational database system known for its reliability, data integrity, and robustness.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/postgresql.svg"
+  },
+  "Firebase": {
+    "description": "A comprehensive mobile and web application development platform by Google that offers a suite of tools and services.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
+  },
+  "AWS": {
+    "description": "Amazon Web Services, a secure cloud services platform offering a wide range of computing, storage, and networking solutions.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/aws-2.svg"
+  },
+  "Cloudflare": {
+    "description": "A global cloud network that provides a suite of services to secure, accelerate, and optimize websites and applications.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg"
+  },
+  "GCP": {
+    "description": "Google Cloud Platform, a suite of cloud computing services that runs on the same infrastructure Google uses for its end-user products.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg"
+  },
+  "Git": {
+    "description": "A free and open-source distributed version control system designed to handle everything from small to very large projects.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/git-icon.svg"
+  },
+  "GitHub": {
+    "description": "A web-based platform that provides hosting for software development and version control using Git.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"
+  },
+  "GitLab CI/CD": {
+    "description": "A part of GitLab that provides an integrated continuous integration and continuous deployment service for automated software development.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/gitlab.svg"
+  },
+  "Kubernets": {
+    "description": "An open-source container orchestration system for automating the deployment, scaling, and management of containerized applications.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/kubernets.svg"
+  },
+  "Docker": {
+    "description": "A platform that uses OS-level virtualization to deliver software in packages called containers, isolating them from the environment.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/docker-4.svg"
+  },
+  "Python": {
+    "description": "A high-level, interpreted programming language widely used for web development, data science, and artificial intelligence.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/python-5.svg"
+  },
+  "PyTorch": {
+    "description": "An open-source machine learning framework based on the Torch library, used for building deep learning models.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/pytorch-2.svg"
+  },
+  "Scikit-learn": {
+    "description": "A free software machine learning library for Python that features various classification, regression, and clustering algorithms.",
+    "imageUrl": "https://raw.githubusercontent.com/scikit-learn/scikit-learn/b10b73a9b982bbbc3240aa6f0ab6c8e2a2cbd302/doc/logos/scikit-learn-logo.svg"
+  },
+  "Pandas": {
+    "description": "A software library for Python used for data manipulation and analysis. It provides data structures and operations for manipulating numerical tables and time series.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/pandas.svg"
+  },
+  "Numpy": {
+    "description": "A fundamental package for scientific computing in Python, providing support for multi-dimensional arrays and matrices.",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/numpy-1.svg"
+  },
+  "LangChain": {
+    "description": "A framework designed to simplify the creation of applications using large language models (LLMs).",
+    "imageUrl": "https://cdn.worldvectorlogo.com/logos/langchain-1.svg"
+  },
+  "LangGraph": {
+    "description": "A library for building stateful, multi-actor applications with LLMs, inspired by LangChain's Expression Language.",
+    "imageUrl": "https://avatars.githubusercontent.com/u/144933618?s=200&v=4"
+  }
+}

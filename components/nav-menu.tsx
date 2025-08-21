@@ -1,4 +1,4 @@
-"use client"
+// "use client"
 
 import { useState } from "react"
 import { Menu, X, Home, User, Briefcase, GraduationCap, Mail } from "lucide-react"

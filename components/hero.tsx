@@ -34,12 +34,12 @@ export function Hero() {
           </Link>
         </Button>
       </div>
-      <Button
+      {/* <Button
         variant="outline"
         onClick={() => document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })}
       >
         Learn More <ChevronDown className="ml-2 h-4 w-4" />
-      </Button>
+      </Button> */}
     </section>
   )
 }
